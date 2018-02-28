@@ -10,6 +10,7 @@ function updateState(state, action) {
     }
 }
 
+
 const incrementAction = { type: 'INCREMENT', amount: 5 };
 const decrementAction = { type: 'DECREMENT', amount: 3 };
 
